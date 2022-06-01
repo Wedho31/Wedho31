@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wedho31
-- 👀 I’m interested in ...cybersecurity
-- 🌱 I’m currently learning ...web development 
+- 👀 I’m interested in ...machine learning, data analytics
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...anything
 - 📫 How to reach me ...wellingtond99@gmail.com 
 
